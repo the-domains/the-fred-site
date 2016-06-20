@@ -1,0 +1,14 @@
+layout_spectrum: 0.8253510086797178
+typography_spectrum: 0.08874471508897841
+color:
+  brandStrength: 0.026426856173202395
+  lightness: 0.25016530719585717
+  saturation: 0.25843583955429494
+  rhythmicContrast: 0.43284273869358003
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: The Fred Site
